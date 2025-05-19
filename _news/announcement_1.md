@@ -6,5 +6,5 @@ related_posts: false
 ---
 
 
-Mengqi Li joins the BRI Lab as a Ph.D. student. Welcome!
+Mengqi Li joins the Niu Bi Puls Lab as a Ph.D. student. Welcome!
 
