@@ -2,7 +2,7 @@
 layout: about
 title: "Home"
 permalink: /
-subtitle: <a href='#'>Assistant Professor</a>. Uncertainty Quantification | Scientific ML
+subtitle: Niu Bi PlusLab<br>Texas Tech University
 
 profile:
   align: right
@@ -33,12 +33,16 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome!
+Welcome！
 
-Our group aims to integrate cutting-edge AI techniques with computing, design, and decision-making processes for large-scale structural and infrastructural systems. Our research interests encompass machine learning-based metamodeling, large-scale multi-hazard risk and resilience assessment, and AI-powered automated design, maintenance, and decision-making.
+Our group aims to integrate cutting-edge artificial intelligence techniques with the modeling, design, and decision-making processes of large-scale structural and infrastructure systems.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+We are particularly interested in:
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+- **Uncertainty Quantification in science and engineering**
+- **Scientific Machine Learning**
+- **Risk and Reliability Analysis**
+- **Sensitivity Analysis**
+- **Bayesian Inference**
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+We seek to develop intelligent, data-driven, and computationally efficient solutions for complex civil engineering challenges involving high uncertainty and limited information.
